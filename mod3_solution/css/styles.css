@@ -17,10 +17,6 @@ body{
 	padding-bottom: 40px;
 }
 
-nav .container{
-	margin-left: 10px;
-	margin-right: 10px;
-}
 .navbar-brand h1 { /* Brand name */
   color: white;
   font-size: 2em;
