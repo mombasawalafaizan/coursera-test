@@ -28,30 +28,25 @@ h3{
 	text-align: center;
 	border: 1px solid black;
 	font-size: 100%;
-	left: 50%;
+	float: right;
 }
 
 p{
 	padding: 5px;
 	font-size: 80%;
+	clear: both;
 }
 
 #nar{
 	background-color: #F27D42;
-	width: 25%;
-	left: 75%;
 }
 
 #ds{
 	background-color: #C38D9E;
 	color: black;
-	width: 40%;
-	left: 60%;
 }
 
 #mha{
-	width: 55%;
-	left: 45%;
 	background-color: #242582;
 }
 
